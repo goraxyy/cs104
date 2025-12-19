@@ -4,4 +4,5 @@ Collection of coursework and lab projects completed for **CS 104** at Lafayette 
 Covers topics in **loops, arrays, object-oriented programming, and exception handling** using Java.
 
 **Language:** Java
+
 **Tools:** Processing · BlueJ · Visual Studio Code · Git
