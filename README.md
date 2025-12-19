@@ -5,4 +5,4 @@ Covers topics in **loops, arrays, object-oriented programming, and exception han
 
 **Language:** Java
 
-**Tools:** Processing · BlueJ · Visual Studio Code · Git
+**Tools:** Processing
